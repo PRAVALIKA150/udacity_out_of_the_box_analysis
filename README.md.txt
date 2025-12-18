@@ -1,4 +1,4 @@
-# Out of the Box Analytics by Pravalika
+# Out of the Box Analytics
 
 This Power BI project analyzes advertising performance to help Metro Staffing optimize monthly ad spend.
 
